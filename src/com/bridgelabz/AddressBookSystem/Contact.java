@@ -37,67 +37,83 @@ public class Contact {
 		this.email = email;
 	}
 
-	public String getFirstName() {
+	public String getFirstName() 
+	{
 		return firstName;
 	}
 
-	public String getLastName() {
+	public String getLastName()
+	{
 		return lastName;
 	}
 
-	public String getAddress() {
+	public String getAddress() 
+	{
 		return address;
 	}
 
-	public String getCity() {
+	public String getCity() 
+	{
 		return city;
 	}
 
-	public String getState() {
+	public String getState() 
+	{
 		return state;
 	}
 
-	public int getZip() {
+	public int getZip()
+	{
 		return zip;
 	}
 
-	public long getPhoneNumber() {
+	public long getPhoneNumber()
+	{
 		return phoneNumber;
 	}
 
-	public void setFirstName(String firstName) {
+	public void setFirstName(String firstName) 
+	{
 		this.firstName = firstName;
 	}
 
-	public void setLastName(String lastName) {
+	public void setLastName(String lastName)
+	{
 		this.lastName = lastName;
 	}
 
-	public void setAddress(String address) {
+	public void setAddress(String address)
+	{
 		this.address = address;
 	}
 
-	public void setCity(String city) {
+	public void setCity(String city) 
+	{
 		this.city = city;
 	}
 
-	public void setState(String state) {
+	public void setState(String state)
+	{
 		this.state = state;
 	}
 
-	public void setZip(int zip) {
+	public void setZip(int zip) 
+	{
 		this.zip = zip;
 	}
 
-	public void setPhoneNumber(long phoneNumber) {
+	public void setPhoneNumber(long phoneNumber) 
+	{
 		this.phoneNumber = phoneNumber;
 	}
 
-	public void setEmail(String email) {
+	public void setEmail(String email)
+	{
 		this.email = email;
 	}
 
-	public String getEmail() {
+	public String getEmail()
+	{
 		return email;
 	}
 
